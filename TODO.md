@@ -1,0 +1,1 @@
+# CV Download Button ✅ COMPLETE\n\nAll steps done:\n- Created TODO.md\n- Updated index.html with 📄 Download CV button in header after social links\n- Added matching .cv-download-btn styles in css/style.css (gradient, hover effects)\n- Tested with `start index.html`\n\nButton downloads 'AasamVikas_CV_2005 2.pdf' directly. Preview in browser to verify.
